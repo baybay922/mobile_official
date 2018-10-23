@@ -1,0 +1,146 @@
+.english .join-us .process dl dd p{
+    font-size:0.2rem;
+    line-height:0.28rem;
+}
+.english .join-us .process dl dd h3{
+    margin-bottom: 0;
+}
+.english section .analysis .revenue dl {
+    margin-right:-0.2rem;
+}
+.english section .analysis .revenue dl dd{
+    text-align: left;
+    font-size:0.24rem;
+    line-height: 0.34rem;
+    margin:0 auto;
+    width:3.2rem;
+}
+.english section .analysis .daily-reward p{
+    font-size:0.24rem;
+    line-height: 0.4rem;
+}
+.english section .analysis .daily .daily-left li{
+    width:4.26rem;
+    font-size:0.28rem;
+    line-height:0.36rem;
+    text-align: left;
+}
+.english section .analysis .daily .daily-left li span{
+    margin:0.15rem auto;
+    display: block;
+} 
+.english section .customer .customer-cont dl dd{
+    font-size:0.2rem;
+    line-height: 0.28rem;
+}
+.english section .customer{
+    padding-bottom:0.61rem;
+}
+.english section .service .service-cont dl:nth-child(2) dd span,
+.english section .service .service-cont dl:nth-child(3) dd span{
+    margin-top:0.5rem;
+}
+.english section .service .service-cont dl dd h3{
+    font-size:0.24rem;
+    line-height: 0.32rem;
+    width:auto;
+    font-weight: bold;
+}
+.english section .service .service-cont dl dd h3 i:nth-child(2){
+    width:3.2rem;
+    margin:0 auto;
+}
+.english section .service .service-cont dl dd p{
+    font-size:0.2rem;
+    line-height:0.28rem;
+}
+.english section .service .service-cont dl:nth-child(4) p{
+    width:2.88rem;
+}
+
+.english section .advantage .swiper-slide:nth-child(1) p span:nth-child(2){
+    margin-top:0.3rem;
+}
+.english .header .language{
+    background: url('../images/chinese.png') no-repeat;
+  background-size: 100% 100%;
+}
+.english section .service .service-cont dl:nth-child(4) dd ul li{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    font-size:0.2rem;
+}
+.service-cont dl:nth-child(4) dd ul li>b{
+    position: relative;
+}
+.english section .service .service-cont dl:nth-child(4) dd ul li>b:before{
+    position: absolute;
+    content:"";
+    width:0.16rem;
+    height:0.3rem;
+    background: url('../images/one.png') no-repeat;
+    background-size: 100% 100%;
+    margin:0;
+    margin-left:-0.3rem;
+}
+.english section .service .service-cont dl:nth-child(4) dd ul li:nth-child(2)>b:before{
+    background: url('../images/two.png') no-repeat;
+    background-size: 100% 100%;
+}
+.english section .service .service-cont dl:nth-child(4) dd ul li:nth-child(3)>b:before{
+    background: url('../images/three.png') no-repeat;
+    background-size: 100% 100%;
+}
+.english section .service .service-cont dl:nth-child(4) dd ul li:nth-child(4)>b:before{
+    background: url('../images/four.png') no-repeat;
+    background-size: 100% 100%;
+}
+.english section .hospital .hospital-cont .swiper-slide .hospital-title{
+    margin-top:6.14rem;
+}
+.english section .join-us .process button{
+    font-size:0.28rem;
+    padding:0.26rem 0.5rem;
+}
+.english .aside .link{
+    padding:0 0.4rem;
+}
+
+.english .test dl{
+    margin-top:0.2rem;
+   
+}
+.english .test dl dd{
+    font-size:0.22rem;
+    text-align: left;
+    width:70%;
+    line-height: 0.28rem; 
+}
+.english .test dl dd.analysis-add:after{
+    bottom:-0.8rem;
+}
+.english section .hospital .hospital-cont .swiper-slide:nth-child(1) .hospital-title{
+    background: url('../images/high.png') no-repeat;
+    background-size:100% 100%;
+}
+.english section .hospital .hospital-cont .swiper-slide:nth-child(2) .hospital-title{
+    background: url('../images/incomeEnglish.png') no-repeat;
+    background-size:100% 100%;
+  }
+.english section .hospital .hospital-cont .swiper-slide:nth-child(3) .hospital-title{
+    background: url('../images/fnancialE.png') no-repeat;
+    background-size:100% 100%;
+  }
+ .english section .hospital .hospital-cont .swiper-slide:nth-child(4) .hospital-title{
+    background: url('../images/communication.png') no-repeat;
+    background-size:100% 100%;
+  }
+ .english section .hospital .hospital-cont .swiper-slide:nth-child(5) .hospital-title{
+    background: url('../images/experienceE.png') no-repeat;
+    background-size:100% 100%;
+  }
+ .english section .hospital .hospital-cont .swiper-slide:nth-child(6) .hospital-title{
+    background: url('../images/taxE.png') no-repeat;
+    background-size:100% 100%;
+  }
